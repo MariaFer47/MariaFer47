@@ -4,4 +4,5 @@ Meu nome é Maria Fernanda
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
-- utilizo esse espaço para minha organização 
+- Utilizo esse espaço para minha organização e compartilhamento e dos meus projetos
+- Podem interagir comigo no meu instagram: @_mariafermoreira
